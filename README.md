@@ -10,11 +10,7 @@
 
 Hey there :wave:,
 
-I'm a low-level back-end developer with full hardware power. I'm interested in developing compilers
-and parsers and I also like to develop tooling and integrate them. I'm the founder of
-[@aurorafossorg](https://gitlab.com/aurorafossorg/).
-
-Check out my "open-sauce" CV [here](https://keybase.pub/ljmf00/documents/) and academic transcripts.
+Check out my [about page](https://lsferreira.net/about/).
 
 ---
 Keep it Simple
